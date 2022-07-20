@@ -1,0 +1,30 @@
+.spaceship {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+#universe {
+    background-color: black;
+    height: 500px;
+}
+
+#settings {
+    text-align: center;
+}
+
+body {
+    color: white;
+    background-color: dimgray;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+div {
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+}
